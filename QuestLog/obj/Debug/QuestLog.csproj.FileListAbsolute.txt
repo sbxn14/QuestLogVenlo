@@ -1,0 +1,8 @@
+D:\QuestLog\QuestLog\bin\Debug\QuestLog.dll
+D:\QuestLog\QuestLog\bin\Debug\QuestLog.pdb
+D:\QuestLog\QuestLog\bin\Debug\CitiesHarmony.API.dll
+D:\QuestLog\QuestLog\obj\Debug\QuestLog.csprojAssemblyReference.cache
+D:\QuestLog\QuestLog\obj\Debug\QuestLog.csproj.CoreCompileInputs.cache
+D:\QuestLog\QuestLog\obj\Debug\QuestLog.csproj.CopyComplete
+D:\QuestLog\QuestLog\obj\Debug\QuestLog.dll
+D:\QuestLog\QuestLog\obj\Debug\QuestLog.pdb
